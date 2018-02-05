@@ -1,8 +1,8 @@
-## List of papers
+## List of papers / presenters
 
 #### *1/11/2017* Predictive representations can link model-based reinforcement learning to model-free mechanisms. Russek et al. (2017).
 
-[https://www.biorxiv.org/content/early/2016/10/27/083857](https://www.biorxiv.org/content/early/2016/10/27/083857)
+[http://journals.plos.org/ploscompbiol/article/comments?id=10.1371/journal.pcbi.1005768](http://journals.plos.org/ploscompbiol/article/comments?id=10.1371/journal.pcbi.1005768)
 
 william.cothi.15@ucl.ac.uk
 
